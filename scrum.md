@@ -1,29 +1,39 @@
-# Agile 
-Begins with the creation of a product backlog
-
 ### Product Backlog
-A *prioritized* list of *features* and other *capabilities* needed to *develop* a 
-*successful product*
+A prioritized list of new product features or capabilities,
+which guide its development.
 
-#### The Product Backlog should guide development
+##### Backlog Organization
+1. Items in a backlog are ordered by priority from high to low.
 
-* Items arranged by priority (High to Low)
-* Items are worked on in order
 
-By working on items in order of priority, we ensure that any tickets we can't 
-deliver on will be of lower priority than the tickets that were completed.
+
+|Immediate Action Required|Priority|Position|
+|-----|:--:|------------:|
+|True |High|Top|
+|False|Low |Bottom|
+
+1. Items requiring immediate action 
+  * High Priority
+  * Top of Product Backlog
+
+1. Items that do not require immediate action 
+  - Lower Priority
+  - 
+
+2. Items are worked on in order of priority
+    * Attempt to ensure that items that were not completed during the iteration 
+      have lower priority than the items that were completed.
+
+
 
 ### Team Characteristics
 1. Self-Organizing
 2. Cross-Functional
 
-### Iteration
-An iteration should result in completed features that could be put into master.
 
-Processes of an interation include 
-1. Designing
-1. Building 
-1. Testing new features or capabilities.
+### All work is performed in short, timeboxed iterations
+An iteration should result in completed features that can be released, if appropriate.
+
 
 
 ### Iteration Lifecyle
@@ -45,3 +55,4 @@ The Scrum team plans which high-priority subset of the backlog to create for the
 Product of Iteration
 Team should have a potentially shippable product (or increment of a product) that could be released if appropriate.
 Whether or not work completed in a sprint is “releasable” is appropriate for release is determined by the team.
+
